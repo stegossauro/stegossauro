@@ -16,10 +16,6 @@
 *Theoretical Insights and Forecasts with Machine Learning Models*  
 — My bachelor’s thesis exploring economic growth using modern data science and ML techniques.
 
-## 🤝 Let’s Connect!
-<!-- Add your LinkedIn, Twitter, or website here -->
-[LinkedIn](#) 
-
 ## 🌱 Open For
 - Collaborations
 - Mentorships (offering and seeking!)
