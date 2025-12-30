@@ -1,14 +1,14 @@
 # Hi there, I’m stegossauro! 🦕
 
 ## 👋 About Me
-- 🎓 Student & Freelance Data Analyst  
-- 🧑‍💻 Passionate about Python data science projects  
-- 🚀 Determined to land a data science job opportunity  
+- 🎓 Student   
+- 🧑‍💻 Passionate about Python data science & engineering projects  
+- 🚀 Determined to land a data job opportunity  
 - 📚 I like reading books heavy as bricks (recommend one!)
 
 ## 🛠️ Top Skills
 - Python (numpy, pandas, matplotlib, seaborn, statsmodels, scikit-learn)
-- Data Analysis & Visualization
+- SQL/NoSQL
 - Statistical Modeling & Machine Learning
 
 ## 🌟 Featured Project
